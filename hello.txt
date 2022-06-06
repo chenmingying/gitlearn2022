@@ -9,4 +9,5 @@ hello guigu hello git2222222222
 hello guigu hello git2222222222
 hello guigu hello git2222222222
 master test
+hot_fix test
 hello guigu hello git2222222222
